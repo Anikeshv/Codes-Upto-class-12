@@ -1,10 +1,10 @@
 
 #WAP to calculate area of a circle
 #Solution
-r=float(input("Enter the radius of the circle:"))
+'''r=float(input("Enter the radius of the circle:"))
 a=3.14
 
-print("The area of circle is :",r*r*a)
+print("The area of circle is :",r*r*a)'''
 
 
 #WAP to calculate the simple interest
